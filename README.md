@@ -1,6 +1,6 @@
-# cd331 "Aprovisionamiento de VM y contenedores".
+# cd331 "Aprovisionamiento de máquinas virtuales".
 
-Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso cd321 "Aprovisionamiento de VM y contenedores", de Cloudevel®. Las notebooks de Jupyter se deben ejecutar utilizando el [kernel de Bash](https://github.com/takluyver/bash_kernel).
+Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso cd331 "Aprovisionamiento de máquinas virtuales", de Cloudevel®. Las notebooks de Jupyter se deben ejecutar utilizando el [kernel de Bash](https://github.com/takluyver/bash_kernel).
 
 ## Nuestra máquina virtual.
 
