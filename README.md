@@ -1,4 +1,4 @@
-# cd331 "Aprovisionamiento de máquinas virtuales".
+# cd431 "Aprovisionamiento de máquinas virtuales".
 
 Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso cd331 "Aprovisionamiento de máquinas virtuales", de Cloudevel®. Las notebooks de Jupyter se deben ejecutar utilizando el [kernel de Bash](https://github.com/takluyver/bash_kernel).
 
@@ -11,4 +11,4 @@ Para facilitar la instalación y configuración tanto de Jupyter como del kernel
 Para clonar el repositorio en su sitema de archivos local, ejecute desde una terminal:
 
 ``` bash
-git clone https://github.com/Cloudevel/cd331.git
+git clone https://github.com/Cloudevel/cd431.git
