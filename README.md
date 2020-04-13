@@ -1,6 +1,6 @@
-# cd441 "Aprovisionamiento de máquinas virtuales".
+# cd521 "Aprovisionamiento de máquinas virtuales".
 
-Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso cd4411 "Aprovisionamiento de máquinas virtuales", de Cloudevel®. Las notebooks de Jupyter se deben ejecutar utilizando el [kernel de Bash](https://github.com/takluyver/bash_kernel).
+Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso cd521 "Aprovisionamiento de máquinas virtuales", de Cloudevel®. Las notebooks de Jupyter se deben ejecutar utilizando el [kernel de Bash](https://github.com/takluyver/bash_kernel).
 
 ## Nuestra máquina virtual.
 
@@ -11,4 +11,4 @@ Para facilitar la instalación y configuración tanto de Jupyter como del kernel
 Para clonar el repositorio en su sitema de archivos local, ejecute desde una terminal:
 
 ``` bash
-git clone https://github.com/Cloudevel/cd441.git
+git clone https://github.com/Cloudevel/cd521.git
